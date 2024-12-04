@@ -1,3 +1,10 @@
-## Hello!
+# Hello! 
 
-I'm not able to talk anything here. Maybe... just about I'm a C++ programmer and also like a self-cibernetica-protection specialist.
+Welcome to my profile! At the moment, I'm a Information Systems student at the Minas Gerais Federal Institute of Education, Science and Technology. 
+
+My skills:
+
+- C++ programming;
+- Cibersecurity and InfoSec;
+- Software Engineering;
+- Networks Analysis.
