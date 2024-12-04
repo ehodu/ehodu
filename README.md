@@ -1,6 +1,6 @@
 # Hello! 
 
-Welcome to my profile! At the moment, I'm a Information Systems student at the Minas Gerais Federal Institute of Education, Science and Technology. 
+Welcome to my profile! At the moment, I'm a Information Systems student at the Minas Gerais Federal Institute of Education, Science and Technology - Brazil.
 
 My skills:
 
